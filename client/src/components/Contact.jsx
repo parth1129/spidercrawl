@@ -14,7 +14,7 @@ const SUBJECTS = [
 
 const CONTACT_INFO = [
   { icon: Mail,    label: 'Email',    value: 'admin@spidercrawl.com' },
-  { icon: Phone,   label: 'Phone',    value: '+91 XXXXXXXXXX' },
+  { icon: Phone,   label: 'Phone',    value: '+91 7738480381' },
   { icon: MapPin,  label: 'Location', value: 'India — available remotely across Asia' },
   { icon: Clock,   label: 'Response', value: 'Within 24 hours' },
 ];
