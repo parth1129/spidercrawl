@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Shield body -->
+  <path d="M16 2L4 7v9c0 7 5.5 13 12 14 6.5-1 12-7 12-14V7L16 2z" fill="#0a0f1e" stroke="#00d4ff" stroke-width="1.5"/>
+  <!-- SC initials -->
+  <text x="16" y="20" font-family="monospace" font-size="8" font-weight="bold" fill="#00d4ff" text-anchor="middle">SC</text>
+</svg>
